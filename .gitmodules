@@ -1,0 +1,3 @@
+[submodule "quoters"]
+	path = quoters
+	url = https://github.com/spring-guides/quoters.git
