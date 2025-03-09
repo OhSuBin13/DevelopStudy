@@ -1,0 +1,10 @@
+spring:
+  zoom:
+    oauth2:
+      issuer: https://zoom.us/oauth/token
+      client-id: ${CLIENT_ID}
+      client-secret: ${CLIENT_SECRET}
+      account-id: ${ACCOUNT_ID}
+      api-url: https://api.zoom.us
+    email:
+      host: ${ZOOM_HOST_EMAIL}
